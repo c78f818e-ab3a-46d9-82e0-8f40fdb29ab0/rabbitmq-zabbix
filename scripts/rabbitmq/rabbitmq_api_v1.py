@@ -1,8 +1,8 @@
 #!/usr/bin/env /usr/bin/python
 '''Python module to query the RabbitMQ Management Plugin REST API and get
 results that can then be used by Zabbix.
-https://github.com/jasonmcintosh/rabbitmq-zabbix
 '''
+
 import json
 import optparse
 import socket
